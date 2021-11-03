@@ -1,0 +1,5 @@
+apiVersion: v2
+name: blog
+description: A Helm chart of Blog Application on k8s
+version: 0.1.0
+type: application
